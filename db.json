@@ -1,1 +1,1 @@
-{"alg": "ES256", "crv": "P-256", "kty": "EC", "use": "sig", "x": "YqdWm-yjeCgUUh2stGpalZ0cL5lWJsdnQz9EPoFfQ0s", "y": "7Rzu06lwHs7yNX_dNCbDPRDMl76IOcjOqTy8XN5_Lo8", "kid": "guR6XmEKGMvmVbvE_ArY6vobF6aHPppNhhv3k1Y3fFo"}
+{"keys": [{"alg": "ES256", "crv": "P-256", "kty": "EC", "use": "sig", "x": "YqdWm-yjeCgUUh2stGpalZ0cL5lWJsdnQz9EPoFfQ0s", "y": "7Rzu06lwHs7yNX_dNCbDPRDMl76IOcjOqTy8XN5_Lo8", "kid": "guR6XmEKGMvmVbvE_ArY6vobF6aHPppNhhv3k1Y3fFo"}]}
